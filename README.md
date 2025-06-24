@@ -9,7 +9,7 @@ Input Stream -> FileInputStream
 ㄴ공통필드     ㄴfilterInputStream
 ㄴ메서드       ㄴByteInputStream
 
-int read() : 한번에 1byte씩 읽엇 ㅓ반환
+int read() : 한번에 1byte씩 읽어서반환
 int read(byte[] b) : 읽어와서 바이트 배열에 넣는다.
 
 OutputStream -> FileOutpuStream
